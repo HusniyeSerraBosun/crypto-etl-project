@@ -1,0 +1,15 @@
+venv/
+.venv/
+env/
+
+
+__pycache__/
+*.py[cod]
+
+
+.git/
+.gitignore
+
+
+Dockerfile
+.dockerignore
