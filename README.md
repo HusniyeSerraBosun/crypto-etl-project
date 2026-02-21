@@ -6,6 +6,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Supabase-336791?logo=postgresql)
 ![Grafana](https://img.shields.io/badge/Grafana-Cloud-F46800?logo=grafana)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automation-2088FF?logo=github-actions)
+![ETL Workflow](https://github.com/HusniyeSerraBosun/crypto-etl-project/actions/workflows/main.yml/badge.svg)
 
 ## 📌 Project Overview
 This project is an automated, cloud-native **Extract, Transform, Load (ETL) pipeline** that tracks cryptocurrency prices (Bitcoin & Ethereum) in real-time. The data is fetched from a public API, processed via a Dockerized Python environment, securely loaded into a cloud-based PostgreSQL database, and visualized using a live Grafana dashboard.
